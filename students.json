@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "name": "Rahul",
+      "roll_no": "101",
+      "attendance": {
+        "2026-10-11": "Present",
+        "2026-10-12": "Present",
+        "2026-10-13": "Absent",
+        "2026-10-14": "Present",
+        "2026-10-15": "Present"
+      }
+    },
+    {
+      "name": "Priya",
+      "roll_no": "102",
+      "attendance": {
+        "2026-10-11": "Present",
+        "2026-10-12": "Absent",
+        "2026-10-13": "Present",
+        "2026-10-14": "Present",
+        "2026-10-15": "Absent"
+      }
+    },
+    {
+      "name": "Aman",
+      "roll_no": "103",
+      "attendance": {
+        "2026-10-11": "Present",
+        "2026-10-12": "Present",
+        "2026-10-13": "Present",
+        "2026-10-14": "Absent",
+        "2026-10-15": "Present"
+      }
+    },
+    {
+      "name": "Neha",
+      "roll_no": "104",
+      "attendance": {
+        "2026-10-11": "Absent",
+        "2026-10-12": "Present",
+        "2026-10-13": "Present",
+        "2026-10-14": "Absent",
+        "2026-10-15": "Present"
+      }
+    },
+    {
+      "name": "Arjun",
+      "roll_no": "105",
+      "attendance": {
+        "2026-10-11": "Present",
+        "2026-10-12": "Present",
+        "2026-10-13": "Absent",
+        "2026-10-14": "Present",
+        "2026-10-15": "Present"
+      }
+    }
+  ]
+}
